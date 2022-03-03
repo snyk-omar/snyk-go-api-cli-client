@@ -1,0 +1,3 @@
+config:
+  org: <ORG GUID>
+  apikey: <API TOKEN>
